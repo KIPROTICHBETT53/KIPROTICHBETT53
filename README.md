@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Crop Disease prediction model<br>👯 I’m looking to collaborate on making my project more advanced in python<br>🤝 I’m looking for help with machine learing model trainings and dataset handling<br>🌱 I’m currently learning C/AL programming<br>💬 Ask me about ERP systems and AI<br>⚡ Fun fact
+🔭 I’m currently working on Crop Disease prediction model<br>👯 I’m looking to collaborate on making my project more advanced in python<br>🤝 I’m looking for help with machine learing model trainings and dataset handling<br>🌱 I have a special intrest in ERP systems,hit me up<br>💬 Ask me about Python and AI<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
