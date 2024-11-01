@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Crop recommendation system<br>👯 I’m looking to collaborate on training several AI modules and other aspects of deep learning<br>🤝 I’m looking for help with database management<br>🌱 I’m currently learning javaScript<br>💬 Ask me about software development<br>⚡ Fun fact have alot of fun
+🔭 I’m currently working on a Crop Recommendation System<br>👯 I’m looking to collaborate on training several AI modules and other aspects of deep learning<br>🤝 I’m looking for help with database management<br>🌱 I’m currently learning javaScript<br>💬 Ask me about software development<br>⚡ Fun fact have alot of fun
 
 
 ## 🌐 Socials:
