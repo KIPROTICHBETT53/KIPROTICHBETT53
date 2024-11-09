@@ -1,4 +1,6 @@
 # 💫 About Me:
+![Cool Intro](https://github.com/KIPROTICHBETT53/cookie-consent/raw/main/your_cool_intro.gif)
+
 🔭 I’m currently working on a Crop Recommendation System<br>👯 I’m looking to collaborate on training several AI modules and other aspects of deep learning<br>🤝 I’m looking for help with Database Management<br>🌱 I’m currently learning javaScript<br>💬 Ask me about software development<br>⚡ Fun fact have alot of fun
 
 
