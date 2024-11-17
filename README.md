@@ -4,7 +4,7 @@
 🔭 I’m currently working on a Crop Recommendation System<br>👯 I’m looking to collaborate on training several AI modules and other aspects of deep learning<br>🤝 I’m looking for help with Database Management<br>🌱 I’m currently learning javaScript<br>💬 Ask me about software development<br>⚡ Fun fact have alot of fun
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ellybett) 
 
 # 💻 Tech Stack:
