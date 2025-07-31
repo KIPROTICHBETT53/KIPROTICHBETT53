@@ -5,7 +5,7 @@
 🤖 Tinkering With: AI models that might take over the world (but only if it's agriculturally beneficial).<br>
 🗃️ Could Use a Sidekick For: Database wizardry—because tables and queries need love too.<br>
 👨‍💻 Let's Team Up On: Training AI, building cool web apps, or just breaking things (then fixing them).<br>
-💬 Ask Me About: Anything from coding bugs to GitHub battles—I’ve probably been there.<br>
+💬 Ask Me About: Anything from coding bugs to GitHub battles I’ve probably been there.<br>
 ⚡ Fun Fact: I debug better with snacks. Also, I once coded for 12 hours straight and only cried once.<br>
 
 # 🌐 Socials:
