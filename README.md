@@ -1,8 +1,12 @@
 # 💫 About Me:
 ![Cool Intro](https://github.com/KIPROTICHBETT53/cookie-consent/raw/main/your_cool_intro.gif)
 
-🔭 I’m currently working on a Crop Recommendation System<br>👯 I’m looking to collaborate on training several AI modules and other aspects of deep learning<br>🤝 I’m looking for help with Database Management<br>🌱 I’m currently working on AI models<br>💬 Ask me about software development<br>⚡ Fun fact have alot of fun
-
+🔭 Currently Working On: Myself!<br>
+🤖 Tinkering With: AI models that might take over the world (but only if it's agriculturally beneficial).<br>
+🗃️ Could Use a Sidekick For: Database wizardry—because tables and queries need love too.<br>
+👨‍💻 Let's Team Up On: Training AI, building cool web apps, or just breaking things (then fixing them).<br>
+💬 Ask Me About: Anything from coding bugs to GitHub battles—I’ve probably been there.<br>
+⚡ Fun Fact: I debug better with snacks. Also, I once coded for 12 hours straight and only cried once.<br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ellybett) 
