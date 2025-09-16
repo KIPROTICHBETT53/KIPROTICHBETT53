@@ -21,7 +21,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KIPROTICHBETT53&theme=merko&no-frame=true&no-bg=false&margin-w=4)
 
+
 ![Cool Intro](https://github.com/KIPROTICHBETT53/gitartwork/blob/main/gitartwork.svg)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
