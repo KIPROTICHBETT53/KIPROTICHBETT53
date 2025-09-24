@@ -1,7 +1,6 @@
 # 💫 About Me:
 ![Cool Intro](https://github.com/KIPROTICHBETT53/cookie-consent/raw/main/your_cool_intro.gif)
 
-🔭 Currently not Working<br>
 🤖 Tinkering With: AI models that might take over the world.<br>
 🗃️ Could Use a Sidekick For: Database wizardry because tables and queries need love too.<br>
 👨‍💻 Let's Team Up On: Training AI, building cool web apps, or just breaking things (then fixing them).<br>
